@@ -26,9 +26,9 @@ You can visit our [**`Official Website`**](https://trythemenu.com).
 
 ## Tech Team 👩‍
 
-- [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
-- [**`@Soumavo Dey`**](https://github.com/maverick-360)
-- [**`@Avirup Basu`**](https://github.com/avirup171)
+- ***Frontend:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
+- ***Backend:*** [**`@Soumavo Dey`**](https://github.com/maverick-360)
+- ***DevOps:*** [**`@Avirup Basu`**](https://github.com/avirup171)
 
 
 ## Tech Stack 🍿
