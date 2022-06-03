@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 
@@ -14,7 +14,7 @@
 ![Logo](https://www.trythemenu.com/image/lightTTM.png)
 
 
-# TTM
+## Hi there WELCOME to TTM 👋
 
 This is TTM organization for TTM Developers. You can visit our [Official Website](https://trythemenu.com).
 
