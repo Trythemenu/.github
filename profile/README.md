@@ -16,7 +16,13 @@
 
 ## Hi there WELCOME to TTM 👋
 
-🙋‍♀️ A short introduction - This is TTM organization for TTM Developers. You can visit our [Official Website](https://trythemenu.com).
+🙋‍♀️ *A short introduction -* 
+
+A complete solution for ***`restaurant`***, ***`cafe`***, ***`pubs`*** and ***`hotel chains`*** to **Manage**, **Engage** and **Understand** their customer more.
+
+This is ***TTM organization*** page for **`TTM Developers`**. 
+You can visit our [**`Official Website`**](https://trythemenu.com).
+
 
 ## Tech Team 👩‍
 
