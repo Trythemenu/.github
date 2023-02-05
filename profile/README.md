@@ -35,14 +35,13 @@ You can visit our [**`Official Website`**](https://trythemenu.com).
 
 - ***Frontend:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
 - ***Backend:*** [**`@Soumavo Dey`**](https://github.com/maverick-360)
-- ***DevOps:*** [**`@Avirup Basu`**](https://github.com/avirup171)
 
 
 ## Tech Stack 🍿
 
-**Client:** React Native, Next.js, Redux, Zustand 
+**Client:** Flutter, Next.js, Redux, Zustand 
 
-**Server:** Node, Express
+**Server:** Node, Express, Socket.io
 
 **Database:** MongoDB
 
