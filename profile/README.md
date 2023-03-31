@@ -31,7 +31,7 @@ You can visit our [**`Official Website`**](https://trythemenu.com).
 - [***`Arghadeep Mallick`***](https://www.linkedin.com/in/arghadeep-mallick-77809a1a5/)
 
 
-## Tech Team 👩‍💻
+## Tech Team Lead 👩‍💻
 
 - ***Frontend:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
 - ***Backend:*** [**`@Soumavo Dey`**](https://github.com/maverick-360)
