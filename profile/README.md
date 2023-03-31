@@ -12,6 +12,7 @@
 -->
 
 ![Logo](https://www.trythemenu.com/image/ttmWhite.svg)
+![Logo](https://www.trythemenu.com/image/TTM-logo.svg)
 
 
 ## Hi there WELCOME to TTM 👋
