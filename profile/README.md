@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Logo](https://www.trythemenu.com/_next/image?url=%2Fimage%2FTTM-logo.svg&w=64&q=75)
+![Logo](https://www.trythemenu.com/image/ttmWhite.svg)
 
 
 ## Hi there WELCOME to TTM 👋
