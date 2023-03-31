@@ -35,7 +35,7 @@ You can visit our [**`Official Website`**](https://trythemenu.com).
 
 - ***Frontend:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
 - ***Backend:*** [**`@Soumavo Dey`**](https://github.com/maverick-360)
-- ***DevOps:*** [**`@Avirup Basu`**](https://github.com/avirup171)
+- ***Flutter:*** [**`@Tanmoy karmakar`**](https://github.com/tanmoy27112000)
 
 
 ## Tech Stack 🍿
