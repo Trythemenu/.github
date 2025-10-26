@@ -26,17 +26,12 @@ You can visit our [**`Official Website`**](https://trythemenu.com).
 ## Founding Members 🌈
 
 - [***`Sourav Das`***](https://www.linkedin.com/in/sourav-das-64227a1a2/)
-- [***`Sayan Malakar`***](https://www.linkedin.com/in/sayan-malakar-833183221/)
-- [***`Soumavo Dey`***](https://www.linkedin.com/in/soumavodey/)
 - [***`Arghadeep Mallick`***](https://www.linkedin.com/in/arghadeep-mallick-77809a1a5/)
 
 
 ## Tech Team Lead 👩‍💻
 
-- ***Frontend:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
-- ***Backend:*** [**`@Soumavo Dey`**](https://github.com/maverick-360)
-- ***Flutter:*** [**`@Tanmoy karmakar`**](https://github.com/tanmoy27112000)
-
+- ***Software Engineer:*** [**`@Arghadeep Mallick`**](https://github.com/Arghadeep-hub)
 
 ## Tech Stack 🍿
 
